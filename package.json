@@ -1,0 +1,44 @@
+{
+  "name": "check-var-types",
+  "version": "1.0.2",
+  "description": "a little  library for check js varible type ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/life0727/check-var-types.git"
+  },
+  "keywords": [
+    "check",
+    "checkString",
+    "checkNumber",
+    "checkBoolean",
+    "checkDate",
+    "checkRegexp",
+    "checkFunction",
+    "checkSymbol",
+    "checkNull",
+    "checkUndefined",
+    "checkObject",
+    "checkArray"
+  ],
+  "author": "liife",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/life0727/check-var-types/issues"
+  },
+  "homepage": "https://github.com/life0727/check-var-types#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.2.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-loader": "^8.1.0",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
