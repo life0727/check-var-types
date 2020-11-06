@@ -26,3 +26,6 @@ checkVarType.check('date|regexp',new Date()) //true
 - checkUndefined
 - checkObject
 - checkArray
+
+# License
+© 2020-present, Fu Quanmeng
