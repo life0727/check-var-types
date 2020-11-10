@@ -1,6 +1,6 @@
 {
   "name": "check-var-types",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "a little  library for check js varible type ",
   "main": "index.js",
   "scripts": {
